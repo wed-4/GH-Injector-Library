@@ -1,10 +1,8 @@
 ## GH Injector Library
 
-A feature-rich DLL injection library which supports x86, WOW64 and x64 injections.
-It features five injection methods, six  shellcode execution methods and various additional options.
-Session separation can be bypassed with all methods.
+x86、WOW64、x64でのDLLインジェクションに対応した、機能豊富なDLLインジェクションライブラリです。5つのインジェクションメソッド、6つのシェルコード実行メソッド、および様々な追加オプションを備えています。すべてのメソッドでセッション分離を回避することができます。
 
-If you want to use this library with a GUI check out the [GH Injector GUI](https://github.com/Broihon/GH-Injector-GUI).
+このライブラリをGUIで使用したい場合は、[GH Injector GUI](https://github.com/Broihon/GH-Injector-GUI)をチェックしてください。
 
 ----
 
